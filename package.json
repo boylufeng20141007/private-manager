@@ -1,0 +1,25 @@
+{
+  "name": "d.m.private-manager.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boylufeng20141007/private-manager.git"
+  },
+  "author": "lux.lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boylufeng20141007/private-manager/issues"
+  },
+  "homepage": "https://github.com/boylufeng20141007/private-manager#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.1",
+    "gulp-livereload": "^3.8.1",
+    "webpack": "^1.12.14"
+  }
+}
